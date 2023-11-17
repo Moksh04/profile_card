@@ -47,6 +47,7 @@ body {
   content: '';
   background-image: url('https://wallpapers.com/images/featured/rainbow-background-mchjphcrcafn4p3x.jpg');
   background-size: 1.4rem;
+   border: 5px solid pink;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
